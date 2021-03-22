@@ -1,0 +1,14 @@
+{
+    "class": "land",
+    "id": "",
+    "latLong":[
+        {
+            "latitude": "",
+            "longitude": ""
+        }
+    ],
+    "address": "", 
+    "owner": [""],
+    "prevOwners": [ "" ],
+    "lastSellingPrice": ""  
+}

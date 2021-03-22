@@ -1,0 +1,14 @@
+{
+    "class": "transaction",
+    "data": {
+        "timesStamp": "",
+        "buyerTimeStamp": "",
+        "landID" : "",
+        "from": [""],
+        "to": [""],
+        "amount": "",
+        "lockTime": ""
+    },
+    "buyerSignature": "",
+    "sellerSignature": ""
+}
