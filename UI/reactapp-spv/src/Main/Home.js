@@ -25,17 +25,10 @@ class Home extends Component {
                 <h4 style={{
                     color: '#ffffff',
                     textAlign: 'center',
-                    fontSize: 30,
-                    marginTop: 20,
-                    fontFamily: 'bold'
-                }}>Your land matters !!</h4>
-                <h4 style={{
-                    color: '#ffffff',
-                    textAlign: 'center',
                     fontSize: 60,
                     marginTop: 80,
                     fontFamily: 'bold'
-                }}>Land registry blockchain solution</h4>
+                }}>A Decentralised Real Estate Application</h4>
             </div>
         </div>
     )
