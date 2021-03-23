@@ -1,5 +1,5 @@
 
-# Registrador
+# Land Block
 A blockchain based land registry application. 
 
 ## About
@@ -19,12 +19,6 @@ Just like the bitcoin blockchain, they are the nodes which store and verify the 
 
 This client is run by a general user wanting to sell/buy land. It is only client-side hence React based.
 
-
-![Home](./img/home.png)
-
-![Create Transaction](./img/create_transaction.png)
-
-![Generate LandID](./img/generate_landID.png)
 
 ### Development
 
