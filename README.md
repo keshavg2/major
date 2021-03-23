@@ -55,15 +55,5 @@ npm start
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
----
 
-### Team Members
 
--   [Aman Singh](https://github.com/aman2210)
--   [Dipansh Khandelwal](https://github.com/DipanshKhandelwal)
--   [Rohan Dhoot](https://github.com/rohan2599)
--   and [Myself](https://github.com/amany9000)
-
----
-
-Found a bug? Create an [issue](https://github.com/amany9000/Registrador/issues).
